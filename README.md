@@ -3,3 +3,5 @@ Section added
 1. PostgresSql Setup for osm data
 2. Data scraping from Google Map 
 
+Basic Flow of Project:
+<img src='./FlowChart.png'></img>
