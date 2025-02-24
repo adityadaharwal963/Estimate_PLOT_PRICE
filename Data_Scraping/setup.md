@@ -1,3 +1,5 @@
+### **Google Map Scraping**
+
 To install a Chrome extension from a ZIP file, follow these steps:
 
 1. **Download and extract the ZIP file**:
@@ -38,4 +40,4 @@ That's it! You can now use the extension in Chrome.
 
 **Note:** Data is only scraped from the search list items, so make sure to scroll through the search list to load all the data before scraping.
 
-**Refernce:** https://www.youtube.com/watch?v=8VckTa1Wgwc
+**Reference:** https://www.youtube.com/watch?v=8VckTa1Wgwc
